@@ -2,16 +2,16 @@ from Cine import*
 
 print("Peliculas disponibles")
 Peliculas = [
-    Pelicula("Avatar", 162, "B", "Ciencia Ficcion"),
-    Pelicula("Buscando a Nemo", 100, "A", "Animacion"),
-    Pelicula("El Padrino", 175, "C", "Drama"),
-    Pelicula("Annabelle", 106, "C", "Terror"),
-    Pelicula("Shrek", 90, "A", "Comedia"),
-    Pelicula("Mision Imposible", 147, "B", "Accion"),
-    Pelicula("La La Land", 128, "B", "Romance"),
-    Pelicula("Jurassic Park", 127, "B", "Aventura"),
-    Pelicula("Deadpool", 108, "C", "Accion"),
-    Pelicula("Harry Potter", 152, "A", "Fantasia")
+    Pelicula("Avenger", 120, "A", "Accion"),
+    Pelicula("Mario Bross", 100, "A", "Animacion"),
+    Pelicula("Titanic", 195, "B", "Romance"),
+    Pelicula("Batman", 130, "B ", "Accion"),
+    Pelicula("Coco", 105, "A", "Animacion"),
+    Pelicula("Spiderman", 125, "A", "Accion"),
+    Pelicula("Frozen", 102, "A", "Infantil"),
+    Pelicula("Joker", 122, "C", "Drama"),
+    Pelicula("Rapidos y Furiosos", 140, "B", "Accion"),
+    Pelicula("El Conjuro", 110, "C", "Terror")
     ]
 
 for i in range(len(Peliculas)):
